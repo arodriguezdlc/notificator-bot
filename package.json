@@ -1,0 +1,24 @@
+{
+  "name": "notificator-bot",
+  "version": "0.0.1",
+  "description": "Telegram bot to enable custom notifications in groups. It will be create using serverless architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arodriguezdlc/notificator-bot.git"
+  },
+  "keywords": [
+    "telegram-bot",
+    "serverless",
+    "aws"
+  ],
+  "author": "Alberto Rodríguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arodriguezdlc/notificator-bot/issues"
+  },
+  "homepage": "https://github.com/arodriguezdlc/notificator-bot#readme"
+}
